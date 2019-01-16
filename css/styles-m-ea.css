@@ -619,7 +619,7 @@ div, span {
 	background: -webkit-linear-gradient(left, rgba(244,161,0,1) 0%,rgba(244,148,8,1) 100%);
 	background: linear-gradient(to right, rgba(244,161,0,1) 0%,rgba(244,148,8,1) 100%);
 }
-.quicklinks.cta .ql-item:nth-child(1) .icon:after { width: 23px; height: 21px; background-image: url(images/ico-badge.svg); }
+.quicklinks.cta .ql-item:nth-child(1) .icon:after { width: 26px; height: 34px; background-image: url(images/ico-calc.svg); }
 
 .quicklinks.cta .ql-item:nth-child(2) .icon {
 	background: rgb(244,83,43);
@@ -633,7 +633,7 @@ div, span {
 	background: -webkit-linear-gradient(left, rgba(244,114,26,1) 0%,rgba(244,90,39,1) 100%);
 	background: linear-gradient(to right, rgba(244,114,26,1) 0%,rgba(244,90,39,1) 100%);
 }
-.quicklinks.cta .ql-item:nth-child(2) .icon:after { width: 33px; height: 20px; background-image: url(images/ico-people.svg); }
+.quicklinks.cta .ql-item:nth-child(2) .icon:after { width: 30px; height: 30px; background-image: url(images/ico-click.svg); }
 
 .quicklinks.cta .ql-item:nth-child(3) .icon {
 	background: rgb(244,11,99);
@@ -1753,8 +1753,6 @@ span.mysel-modal-title-txt {text-transform: uppercase; font-size: 15px; letter-s
 .content87725 .section-socials, figcaption { display: none; }
 
 /*cxpmwidget*/
-#cxpmClientAccountWidget { position: absolute; top: 49px; right: 2px; }
+#cxpmClientAccountWidget { position: absolute!important; top: 49px; right: 2px; }
 #cxpmClientAccountWidget a  { color:#ffffff }
 #cxpmClientAccountWidget .widget-icon > span.number { background-color:#44c2ee }
-
-
