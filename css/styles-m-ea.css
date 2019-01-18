@@ -366,6 +366,7 @@ div, span {
 .icon-sector5 { width: 58px; height: 43px; background-image: url(images/ico-sector5-active.png); }
 .icon-sector6 { width: 60px; height: 36px; background-image: url(images/ico-sector6-active.png); }
 .icon-sector7 { width: 44px; height: 44px; background-image: url(images/ico-sector7-active.png); }
+.fa-instagram { width: 29px; height: 29px; background-image: url(images/ico-instagram.png); }
 .fa-twitter { width: 29px; height: 21px; background-image: url(images/ico-twitter.png); }
 .fa-youtube { width: 25px; height: 27px; background-image: url(images/ico-youtube.png); }
 .fa-facebook { width: 13px; height: 26px; background-image: url(images/ico-facebook.png); }
@@ -1756,3 +1757,4 @@ span.mysel-modal-title-txt {text-transform: uppercase; font-size: 15px; letter-s
 #cxpmClientAccountWidget { position: absolute!important; top: 49px; right: 2px; }
 #cxpmClientAccountWidget a  { color:#ffffff }
 #cxpmClientAccountWidget .widget-icon > span.number { background-color:#44c2ee }
+
