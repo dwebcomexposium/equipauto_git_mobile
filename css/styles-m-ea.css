@@ -359,13 +359,13 @@ div, span {
 }
 
 .ico-reserve { width: 24px; height: 24px; background-image: url(images/ico-arrow.png); }
-.icon-sector1 { width: 39px; height: 47px; background-image: url(images/ico-sector1-active.png); }
-.icon-sector2 { width: 46px; height: 46px; background-image: url(images/ico-sector2-active.png); }
-.icon-sector3 { width: 59px; height: 50px; background-image: url(images/ico-sector3-active.png); }
-.icon-sector4 { width: 47px; height: 46px; background-image: url(images/ico-sector4-active.png); }
-.icon-sector5 { width: 58px; height: 43px; background-image: url(images/ico-sector5-active.png); }
-.icon-sector6 { width: 60px; height: 36px; background-image: url(images/ico-sector6-active.png); }
-.icon-sector7 { width: 44px; height: 44px; background-image: url(images/ico-sector7-active.png); }
+.icon-sector1 { width: 65px; height: 43px; background-image: url(images/ea-parcours-1-active.png); }
+.icon-sector2 { width: 61px; height: 45px;  background-image: url(images/ea-parcours-2-active.png); }
+.icon-sector3 { width: 46px; height: 48px; background-image: url(images/ea-parcours-3-active.png); }
+.icon-sector4 { width: 47px; height: 46px; background-image: url(images/ea-parcours-4-active.png); }
+.icon-sector5 { width: 70px; height: 46px; background-image: url(images/ea-parcours-5-active.png); }
+.icon-sector6 { width: 48px; height: 40px; background-image: url(images/ea-parcours-6-active.png); }
+.icon-sector7 { width: 79px; height: 26px; background-image: url(images/ea-parcours-7-active.png); }
 .fa-instagram { width: 29px; height: 29px; background-image: url(images/ico-instagram.png); }
 .fa-twitter { width: 29px; height: 21px; background-image: url(images/ico-twitter.png); }
 .fa-youtube { width: 25px; height: 27px; background-image: url(images/ico-youtube.png); }
@@ -780,16 +780,16 @@ div, span {
 	background: linear-gradient(to right, rgba(156,59,161,1) 0%,rgba(105,98,183,1) 100%);
 }
 .sector-6 {
-	background: rgb(94,109,189);
-	background: -moz-linear-gradient(left, rgba(94,109,189,1) 0%, rgba(49,141,205,1) 100%);
-	background: -webkit-linear-gradient(left, rgba(94,109,189,1) 0%,rgba(49,141,205,1) 100%);
-	background: linear-gradient(to right, rgba(94,109,189,1) 0%,rgba(49,141,205,1) 100%);
+	background: rgb(130, 190, 113);
+background: -webkit-linear-gradient(left, rgb(130, 190, 113) 1%, rgb(62, 187, 151) 100%) rgb(130, 190, 113);
+background: -moz-linear-gradient(left, rgb(130, 190, 113) 1%, rgb(62, 187, 151) 100%) rgb(130, 190, 113);
+background: linear-gradient(to right, rgb(130, 190, 113) 1%, rgb(62, 187, 151) 100%) rgb(130, 190, 113);
 }
 .sector-7 {
-	background: rgb(53,139,204);
-	background: -moz-linear-gradient(left, rgba(53,139,204,1) 0%, rgba(4,178,224,1) 100%);
-	background: -webkit-linear-gradient(left, rgba(53,139,204,1) 0%,rgba(4,178,224,1) 100%);
-	background: linear-gradient(to right, rgba(53,139,204,1) 0%,rgba(4,178,224,1) 100%);
+	background: rgb(159, 132, 69);
+	background: -webkit-linear-gradient(left, rgb(159, 132, 69) 0%, rgb(226, 203, 154) 100%) rgb(54,139,204);
+	background: -moz-linear-gradient(left, rgb(159, 132, 69) 0%, rgb(226, 203, 154) 100%) rgb(54,139,204);
+	background: linear-gradient(to right, rgb(159, 132, 69) 0%, rgb(226, 203, 154) 100%) rgb(54,139,204);
 }
 
 /* ------------------------------------------------------------ *\
@@ -1757,4 +1757,5 @@ span.mysel-modal-title-txt {text-transform: uppercase; font-size: 15px; letter-s
 #cxpmClientAccountWidget { position: absolute!important; top: 49px; right: 2px; }
 #cxpmClientAccountWidget a  { color:#ffffff }
 #cxpmClientAccountWidget .widget-icon > span.number { background-color:#44c2ee }
+
 
