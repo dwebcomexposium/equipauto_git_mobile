@@ -131,7 +131,7 @@ div, span {
 }
 
 .site-banner .header-logo > a,
-.site-banner .header-logo h1 { padding: 0; margin: 0 auto 18px; border: 0; }
+.site-banner .header-logo h1 { padding: 0; margin: 0 auto 1px; border: 0; }
 
 .site-banner .header-new-place,
 .site-banner .header-reserve br,
