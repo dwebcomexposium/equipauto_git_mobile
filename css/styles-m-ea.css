@@ -1770,8 +1770,8 @@ html:lang(en) .site-banner .header-logo h1 a { display: block; width: 350px; hei
 .site-footer .col {padding-bottom:25px; }
 
    
-   
-.block-page.partner .main-title-with-link { text-align: center; padding-bottom: 0; border: 0; margin: 0; }
+    
+.block-page.partner .main-title-with-link { text-align: center; padding-bottom: 0; border: 0; margin: 0; padding-top: 50px; }
 .block-page.partner .main-title-with-link  h2 { font-size: 27px; line-height: 30px; color: #002b4c; font-weight: 900; letter-spacing: 0.15em; text-transform: uppercase; padding: 0 0 40px; border: 0; margin: 0; width: 100%; }
 
 .block-page.partner .partner-gallery  { text-align: center; }
@@ -1779,3 +1779,4 @@ html:lang(en) .site-banner .header-logo h1 a { display: block; width: 350px; hei
 padding-bottom: 50px; }
 
 .block-page.partner .partner-gallery .pg-item-title  { display: none}
+
