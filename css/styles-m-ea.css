@@ -1780,3 +1780,15 @@ padding-bottom: 50px; }
 
 .block-page.partner .partner-gallery .pg-item-title  { display: none}
 
+.header-ctas { text-align: center; display: flex; justify-content: center; padding-top: 20px; z-index: 9000!}
+.header-ctas a svg { transform: scale(0.8)}
+.header-ctas a + a { margin-left: -45px; }
+
+
+html[lang='fr'] .main-navigation:first-of-type .mn-item-lvl-1:nth-of-type(5) > .mn-link { color: #481C7B; background-color: #FAE600; padding: 5px 10px; margin-top: 0; font-weight: 900; display: inline-block; }
+
+
+.lp-ontour .site-banner { position: relative; padding: 0 0 12px; background: url(images/bg-ontour.jpg) no-repeat 0 0; z-index: auto; 
+	-webkit-background-size: cover; 
+	        background-size: cover; 
+}
